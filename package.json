@@ -1,0 +1,21 @@
+{
+  "name": "web-opt",
+  "version": "1.0.0",
+  "description": "Website Optimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Veena0803"
+  },
+  "author": "Veena",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-htmlmin": "^1.4.0",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
